@@ -1,0 +1,104 @@
+.footer{
+    
+  height: 90px;
+  width: 80%;
+
+  display: flex;
+  /* flex-direction: row; */
+justify-content: space-evenly;
+
+  margin: auto;
+  /* margin-top: 50px; */
+  padding: 24px 0 30px;
+
+  gap: 10px;
+  /* box-sizing: border-box; */
+  line-height: 1px;
+  margin-bottom: 4%;
+}
+
+.footer2nddiv{
+
+height: 90px;
+width: 80%;
+
+/* border: 1px solid red; */
+display: flex;
+justify-content: space-evenly;
+
+margin: auto;
+padding: 24px 0 30px;
+
+gap: 10px;
+line-height: 1px;
+margin-bottom: 4%;
+
+}
+.footer3nddiv{
+
+/* height: 100px; */
+width: 80%;
+
+/* border: 1px solid black; */
+display: flex;
+justify-content: space-evenly;
+
+margin: auto;
+padding: 24px 0 30px;
+
+gap: 10px;
+line-height: 1px;
+margin-bottom: 4%;
+
+}
+
+.lastDivfooter{
+
+width: 80%;
+
+/* border: 1px solid black; */
+display: flex;
+justify-content: space-evenly;
+
+margin: auto;
+padding: 24px 0 30px;
+
+/* gap: 10px; */
+line-height: 1px;
+margin-bottom: 4%;
+}
+.btnfooter{
+background-color: black;
+color: white;
+height: 40px;
+
+}
+.inp{
+height: 30px;
+/* width: 80%; */
+}
+
+.h:hover{
+
+color: gold;
+
+}
+.p:hover, .p:active{
+text-decoration: underline;
+
+}
+.p{
+line-height: 8px;
+}
+
+
+.iconHeight{
+
+  font-size: 50px;
+  /* margin-top: 2%; */
+  
+  }
+
+.img{
+height: 40px;
+}
